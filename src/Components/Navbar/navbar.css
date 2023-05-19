@@ -142,7 +142,7 @@
   }
   @media screen and (min-width: 960px) {
     .header .navBar .navLists .navItem {
-      padding: 0 0.7rem;
+       padding: 0rem 0.5rem; 
     }
   }
   @media screen and (min-width: 1240px) {

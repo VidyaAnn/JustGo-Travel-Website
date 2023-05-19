@@ -5,6 +5,8 @@ import img4 from '../../Assets/img4.jpg'
 import img5 from '../../Assets/img5.jpg'
 import img6 from '../../Assets/img6.jpg'
 import img7 from '../../Assets/img7.jpg'
+import img8 from '../../Assets/img8.jpg'
+import img9 from '../../Assets/img9.jpg'
 
 
 export const places = [
@@ -83,7 +85,7 @@ export const places = [
         dest: 'Cliffs of Moher',
         location: 'Ireland',
         amount: '9000',
-        desription: "Standing at 214 meters over the depths of the Atlantic Ocean, and stretching for an awesome 8 km, are the rugged Cliffs of Moher in County Clare."
+        description: "Standing at 214 meters over the depths of the Atlantic Ocean, and stretching for an awesome 8 km, are the rugged Cliffs of Moher in County Clare."
     },
 
     {

@@ -38,8 +38,8 @@ const Navbar=()=>{
                 </div>
                 <div className={active}>
                     <ul className="navLists flex">
-                        <li className="navItem">
-                            <a href="/" className="navLink mb-4">Home</a>
+                        <li className="navItem p-2">
+                            <button><a href="/" className="">Home</a></button>
                             {/* <button onClick={homeClick} className="navLink">Home</button> */}
                            
                         </li>
@@ -62,7 +62,7 @@ const Navbar=()=>{
                         </li> */}
 
                         <li className="navItem" >
-                            <button onClick={contactClick}  className="navLink">Contact</button>
+                            <button onClick={contactClick}  className="">Contact</button>
                            
                         </li>
 
