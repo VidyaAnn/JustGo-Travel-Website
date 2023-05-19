@@ -76,4 +76,22 @@ export const places = [
         amount: '9000',
         description: "Located in Tokyo, Shibuya is known for its busy intersection and is the center for youth fashion and culture.The streets here are the birthplace to many of Japan's fashion and entertainment trends."
     },
+
+    {
+        id: 8,
+        imgSrc: img8,
+        dest: 'Cliffs of Moher',
+        location: 'Ireland',
+        amount: '9000',
+        desription: "Standing at 214 meters over the depths of the Atlantic Ocean, and stretching for an awesome 8 km, are the rugged Cliffs of Moher in County Clare."
+    },
+
+    {
+        id: 9,
+        imgSrc: img9,
+        dest: 'Djemaa El Fna',
+        location: 'Morocco',
+        amount: '5000',
+        description: "It is the city’s largest square and market. At all times of day, you will find Djemaa El Fna filled with tourists, locals, shopkeepers, and food vendors."
+    }
 ]

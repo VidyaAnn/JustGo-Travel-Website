@@ -58,7 +58,7 @@ const Home=()=>{
                         <div className="input flex">
                             <input
                             type="text" 
-                            placeholder="Enter city name" 
+                            placeholder="Enter country name" 
                             value={searchQuery}
                             onChange={handleSelectQuery} />
                             <GrLocation className="icon"/>
@@ -69,7 +69,7 @@ const Home=()=>{
                         <label htmlFor="city">Search your place:</label>
                         <div className="input flex">
                             <input type="text"
-                             placeholder="Enter city name"
+                             placeholder="Enter place name"
                              value={searchQuery1}
                             onChange={handleSelectQuery1} 
                              />
